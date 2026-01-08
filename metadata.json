@@ -1,0 +1,7 @@
+{
+  "name": "Consumer Communication AI Voice Creator",
+  "description": "A professional-grade AI audio studio for voice cloning, high-fidelity text-to-speech, and multi-track mixing. Features advanced DSP processing, sound libraries, and real-time AI voice conversion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
